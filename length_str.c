@@ -15,5 +15,6 @@ int main()
     printf("%d\n", count);
     printf("%s\n", a);
     printf("\n");
+
     return 0;
 }
