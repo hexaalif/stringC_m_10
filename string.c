@@ -16,5 +16,6 @@ int main()
     printf("%.1lf\n", d + d1);
     printf("%s ", s);
     printf("%s\n", a);
+    printf("\n");
     return 0;
 }
