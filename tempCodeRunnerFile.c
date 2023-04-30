@@ -1,1 +1,2 @@
-= sizeof(a) / sizeof(char);
+/ sizeof(char);
+    printf("%d", sz);
